@@ -53,13 +53,13 @@
             </div>
             <div data-aos="fade-up" data-aos-delay="200" data-aos-duration="1000" data-aos-once="true" class="col-md-4 text-center">
                 <img src="img/smart-protect-2.jpg" alt="Phishing Detect" class="mx-auto">
-                <h4>Bad Poles Detect</h4>
+                <h4>Bad Poles Detection</h4>
                 <p>Identify Manufacturers of bad poles</p>
             </div>
             <div data-aos="fade-up" data-aos-delay="400" data-aos-duration="1000" data-aos-once="true" class="col-md-4 text-center">
                 <img src="img/smart-protect-3.jpg" alt="Smart Scan" class="mx-auto">
                 <h4>Smart Scan</h4>
-                <p>RFD Scanning</p>
+                <p>Real Time Scanning</p>
             </div>
         </div>
     </div>
